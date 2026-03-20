@@ -7,4 +7,4 @@ Resources for each project session will be released before the session starts, a
 - [x] Project session 1 (To practice using ROS)
 - [x] Project session 2 (To implement controllers)
 - [x] Project session 3 (To implement planners)
-- [ ] Project session 4 (Advanced trajectory generation)
+- [x] Project session 4 (Advanced trajectory generation)
